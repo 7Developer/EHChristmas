@@ -25,7 +25,7 @@ Example: Eco Server\
 Troubleshooting:
 -----------------------
 If you have the Chance to watch your Game Console, please take a look on it if you face Error's and if you dont
-get the Christma's Toke's or no Message's after you type the Command's.
+get the Christma's Token's or no Message's after you type the Command's.
 
 Error: No Log File or can't be read! Please check if you have a ehclog.txt in your ROOT or MOD Folder
 Solution: Create or copy the ehclog.txt into your Eco Server "Root" Folder or "Mods" Folder
